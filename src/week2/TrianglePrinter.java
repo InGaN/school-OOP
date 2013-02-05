@@ -19,6 +19,6 @@ public class TrianglePrinter {
 	
 	public static void main(String[] args)
 	{
-		System.out.println("Perimeter is: " + Perimeter() + "inch");
+		System.out.println("Perimeter is: " + Perimeter());
 	}
 }
