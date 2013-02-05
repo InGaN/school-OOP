@@ -1,5 +1,5 @@
 package week2;
-
+// test class
 public class TrianglePrinter {
 	static int side1;
 	static int side2;
